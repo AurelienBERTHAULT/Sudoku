@@ -1,5 +1,2 @@
-export { AppComponent } from './app/app.component';
+export { SudokuComponent } from './sudoku/sudoku.component';
 export { ColumnComponent } from './column/column.component';
-export { RowComponent } from './row/row.component';
-export { CellComponent } from './cell/cell.component';
-export { BlockComponent } from './block/block.component';
